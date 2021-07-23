@@ -25,7 +25,7 @@ Raft 算法。通过为你介绍 Raft 算法在 etcd 中是如何工作的，帮
 租约模块。介绍 etcd 租约特性的实现，帮助你搞懂如何检测一个进程的存活性，为什么它可以用于 Leader 选举中。
 MVCC/Watch 模块。通过这两个模块帮助你搞懂 Kubernetes 控制器编程模型背后的原理。
 
-![img](/Users/zhangjiazhen03/github/etcd/img/0-1.png)
+![img](./img/0-1.png)
 
 
 
@@ -35,5 +35,5 @@ MVCC/Watch 模块。通过这两个模块帮助你搞懂 Kubernetes 控制器编
 Kubernetes 实践篇。为你分析 etcd 在 Kubernetes 中的应用，让你对 Kubernetes 原理有更深层次的理解。
 etcd 应用篇。介绍 etcd 在分布式锁、配置系统、服务发现场景中的应用。
 
-![img](/Users/zhangjiazhen03/github/etcd/img/0-2.png)
+![img](./img/0-2.png)
 
